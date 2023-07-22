@@ -9,7 +9,7 @@
         <servlet.api.version>3.1.0</servlet.api.version>
         <jsp.api.version>2.3.1</jsp.api.version>
         <mysql.connector.version>8.0.15</mysql.connector.version>
-        <hibernate.version>5.4.5.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <displaytag.version>1.2</displaytag.version>
 
     </properties>
